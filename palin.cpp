@@ -11,6 +11,5 @@ int main(){
         rev=rev*10+digit;
         temp=temp/10;
     }
-    cout<<rev<<endl;
     cout<<(rev==n?"Yes":"No")<<endl;
 }
