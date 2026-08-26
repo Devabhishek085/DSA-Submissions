@@ -10,6 +10,7 @@ class Solution {
                 if(arr[mn]>arr[j]){
                     swap(arr[mn],arr[j]);
                 }
+                
             }
         }
     }
