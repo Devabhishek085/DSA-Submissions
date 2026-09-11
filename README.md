@@ -5,10 +5,12 @@ My main focus of problem submissions are on Codeforces and the Leetcode.
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
