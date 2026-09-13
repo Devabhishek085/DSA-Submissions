@@ -8,14 +8,20 @@ My main focus of problem submissions are on Codeforces and the Leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0905-sort-array-by-parity) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Devabhishek085/DSA-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0905-sort-array-by-parity) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Devabhishek085/DSA-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Devabhishek085/DSA-Submissions/tree/master/0905-sort-array-by-parity) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Devabhishek085/DSA-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
