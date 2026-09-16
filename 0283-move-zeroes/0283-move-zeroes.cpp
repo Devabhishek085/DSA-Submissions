@@ -1,13 +1,13 @@
 class Solution {
 public:
-    void moveZeroes(vector<int>& arr) {
-        int n=arr.size();
-        int j=0;
-
-        for(int i=0;i<n;i++){
-            if (arr[i]!=0){
-                swap(arr[i],arr[j]);
-                j++;
+    void moveZeroes(vector<int>& nums) {
+        int j=0;  // Pointer to place the next non-zero element
+        for(int i=0;i<nums.size();i++){
+            if (nums[i]!=0){
+                // Swap current element with the element at index j 
+                swap(nums[i],nums[j]);
+            
+                j++;  // Move j to the next index for placing non-zero
             }
         }
     }
